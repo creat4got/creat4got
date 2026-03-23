@@ -28,8 +28,6 @@ I am a **C++ developer** focused on building practical and portfolio-ready softw
 
 I use GitHub as a space to publish projects that reflect my technical skills, engineering mindset, and growth as a developer. My work is centered around writing software with clear structure, maintainable architecture, and real functional value.
 
-My current interests include desktop development, networking, automation, and building projects that demonstrate both technical depth and product thinking.
-
 ---
 
 ## Core Technologies
