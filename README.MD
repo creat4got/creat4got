@@ -1,88 +1,90 @@
-# Daniil Sadykov
+<h1 align="center">Daniil Sadykov</h1>
 
-**C++ Developer** building desktop applications, networking tools, and automation software.
+<p align="center">
+  <b>C++ Developer</b>
+</p>
 
-I use GitHub as a portfolio space to publish projects that reflect my technical skills, engineering approach, and growth as a developer. My work is focused on writing practical software with clean structure, clear purpose, and solid implementation.
+<p align="center">
+  Desktop Applications • Networking • Automation
+</p>
 
----
-
-## Professional Summary
-
-I am a C++ developer with a strong interest in building applications that combine:
-
-- practical functionality
-- clean and maintainable code
-- structured architecture
-- modern development tools
-- real portfolio value
-
-My current focus is on desktop development, networking, and automation projects that can clearly demonstrate both technical depth and product thinking.
+<p align="center">
+  <a href="https://github.com/creat4got">GitHub</a>
+  •
+  <a href="https://t.me/your_username">Telegram</a>
+  •
+  <a href="mailto:your_email@example.com">Email</a>
+</p>
 
 ---
 
-## Core Technologies
+## About Me
 
-**Programming**
-- C++
-- SQL
+I am a **C++ developer** focused on building practical software with clean architecture, maintainable code, and real portfolio value.
 
-**Frameworks and Libraries**
-- Qt 6
-- Boost.Asio
-- Boost.Beast
-- OpenSSL
-
-**Development Tools**
-- CMake
-- Git
-- GitHub
-- Linux
+My main areas of interest include desktop development, networking, and automation tools.  
+I use GitHub as a space to publish projects that reflect my technical skills, engineering mindset, and continuous growth as a developer.
 
 ---
 
-## Selected Project
+## Tech Stack
+
+**Languages**  
+C++, SQL
+
+**Frameworks & Libraries**  
+Qt 6, Boost.Asio, Boost.Beast, OpenSSL
+
+**Tools**  
+CMake, Git, GitHub, Linux
+
+---
+
+## Featured Project
 
 ### [FunPay Helper](https://github.com/creat4got/funpayhelper)
 
-A desktop GUI application developed in **C++** with **Qt 6**, designed to automate workflows for the FunPay platform.
+Desktop GUI application written in **C++** with **Qt 6** for automating workflows on the FunPay platform.
 
-**Key aspects of the project:**
-- user interface built with Qt
-- HTTPS communication using Boost.Beast and Boost.Asio
-- structured CMake-based build configuration
-- focus on practical automation features
-- development in a Linux environment
+**This project demonstrates:**
+- desktop UI development with Qt
+- HTTPS communication with Boost.Beast and Boost.Asio
+- structured CMake-based build setup
+- practical automation features
+- clean and scalable project organization
 
-This project represents my approach to software development: combining functionality, technical reliability, and thoughtful project structure.
+This project reflects the direction of my portfolio:  
+**real C++ applications combining interface development, networking, and practical functionality.**
 
 ---
 
-## Current Direction
+## Current Focus
 
-I am actively developing portfolio projects in the following areas:
+I am currently building portfolio projects with an emphasis on:
 
-- C++ desktop applications
+- real-world C++ applications
+- desktop software with graphical interfaces
 - networking tools
-- automation utilities
-- maintainable software architecture
-- professional project presentation
+- automation solutions
+- code quality and maintainability
 
 ---
 
-## What You Can Expect From My Work
+## Portfolio Goal
+
+This profile is being developed as a professional portfolio.
 
 The projects published here are intended to demonstrate:
-
-- solid C++ development skills
-- ability to work with modern libraries and frameworks
-- attention to code quality
-- structured thinking in implementation
-- commitment to continuous improvement
+- solid C++ fundamentals
+- practical problem-solving
+- familiarity with modern tools and libraries
+- structured engineering approach
+- steady technical growth
 
 ---
 
 ## Contact
 
 - **GitHub:** [@creat4got](https://github.com/creat4got)
-- **Telegram:** `https://t.me/psi_bladegod`
-- **Email:** `sadykovdanielfgt@gmail.com`
+- **Telegram:** [@your_username](https://t.me/your_username)
+- **Email:** your_email@example.com
