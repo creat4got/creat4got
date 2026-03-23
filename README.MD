@@ -1,7 +1,7 @@
 <h1 align="center">Daniil Sadykov</h1>
 
 <p align="center">
-  <b>C++ Developer</b>
+  <strong>C++ Developer</strong>
 </p>
 
 <p align="center">
@@ -9,34 +9,46 @@
 </p>
 
 <p align="center">
+  I build practical software with clean architecture, maintainable code, and strong technical foundation.
+</p>
+
+<p align="center">
   <a href="https://github.com/creat4got">GitHub</a>
   •
-  <a href="https://t.me/your_username">Telegram</a>
+  <a href="https://t.me/psi_bladegod">Telegram</a>
   •
-  <a href="mailto:your_email@example.com">Email</a>
+  <a href="mailto:sadykovdanielfgt@gmail.com">Email</a>
 </p>
 
 ---
 
-## About Me
+## About
 
-I am a **C++ developer** focused on building practical software with clean architecture, maintainable code, and real portfolio value.
+I am a **C++ developer** focused on building practical and portfolio-ready software.
 
-My main areas of interest include desktop development, networking, and automation tools.  
-I use GitHub as a space to publish projects that reflect my technical skills, engineering mindset, and continuous growth as a developer.
+I use GitHub as a space to publish projects that reflect my technical skills, engineering mindset, and growth as a developer. My work is centered around writing software with clear structure, maintainable architecture, and real functional value.
+
+My current interests include desktop development, networking, automation, and building projects that demonstrate both technical depth and product thinking.
 
 ---
 
-## Tech Stack
+## Core Technologies
 
-**Languages**  
-C++, SQL
+### Programming
+- C++
+- SQL
 
-**Frameworks & Libraries**  
-Qt 6, Boost.Asio, Boost.Beast, OpenSSL
+### Frameworks & Libraries
+- Qt 6
+- Boost.Asio
+- Boost.Beast
+- OpenSSL
 
-**Tools**  
-CMake, Git, GitHub, Linux
+### Development Tools
+- CMake
+- Git
+- GitHub
+- Linux
 
 ---
 
@@ -44,47 +56,45 @@ CMake, Git, GitHub, Linux
 
 ### [FunPay Helper](https://github.com/creat4got/funpayhelper)
 
-Desktop GUI application written in **C++** with **Qt 6** for automating workflows on the FunPay platform.
+A desktop GUI application developed in **C++** with **Qt 6** for automating workflows on the FunPay platform.
 
-**This project demonstrates:**
-- desktop UI development with Qt
-- HTTPS communication with Boost.Beast and Boost.Asio
-- structured CMake-based build setup
+**What this project demonstrates:**
+- GUI development with Qt
+- HTTPS communication via Boost.Beast and Boost.Asio
+- structured CMake-based build configuration
 - practical automation features
-- clean and scalable project organization
+- development in a Linux environment
 
-This project reflects the direction of my portfolio:  
-**real C++ applications combining interface development, networking, and practical functionality.**
+This project represents my approach to software development: combining functionality, technical reliability, and thoughtful project structure.
 
 ---
 
 ## Current Focus
 
-I am currently building portfolio projects with an emphasis on:
+I am currently developing portfolio projects in the following areas:
 
-- real-world C++ applications
-- desktop software with graphical interfaces
+- C++ desktop applications
 - networking tools
-- automation solutions
-- code quality and maintainability
+- automation utilities
+- maintainable software architecture
+- professional project presentation
 
 ---
 
-## Portfolio Goal
-
-This profile is being developed as a professional portfolio.
+## What My Work Reflects
 
 The projects published here are intended to demonstrate:
-- solid C++ fundamentals
-- practical problem-solving
-- familiarity with modern tools and libraries
-- structured engineering approach
-- steady technical growth
+
+- strong C++ fundamentals
+- ability to work with modern libraries and frameworks
+- attention to code quality
+- structured implementation approach
+- commitment to continuous growth
 
 ---
 
 ## Contact
 
 - **GitHub:** [@creat4got](https://github.com/creat4got)
-- **Telegram:** [@your_username](https://t.me/your_username)
-- **Email:** your_email@example.com
+- **Telegram:** [@psi_bladegod](https://t.me/psi_bladegod)
+- **Email:** [sadykovdanielfgt@gmail.com](mailto:sadykovdanielfgt@gmail.com)
