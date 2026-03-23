@@ -84,5 +84,5 @@ The projects published here are intended to demonstrate:
 ## Contact
 
 - **GitHub:** [@creat4got](https://github.com/creat4got)
-- **Telegram:** `@your_username`
-- **Email:** `your_email@example.com`
+- **Telegram:** `https://t.me/psi_bladegod`
+- **Email:** `sadykovdanielfgt@gmail.com`
